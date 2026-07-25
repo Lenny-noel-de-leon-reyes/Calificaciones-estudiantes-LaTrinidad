@@ -12,11 +12,17 @@ Adrian DAvid De La Rosa Alvarez (2026-1144)
 
 Instrucciones de uso del programa:
 1-Ejecute el programa desde su entorno de desarrollo (Visual Studio, Code::Blocks, Dev-C++, etc.).
+
 2-Ingrese la cantidad de estudiantes que desea registrar.
+
 3-Digite el nombre de cada estudiante cuando el programa lo solicite.
+
 4-Ingrese la calificación correspondiente a cada estudiante (debe estar entre 0 y 100).
+
 5-Repita el proceso hasta completar el registro de todos los estudiantes.
+
 Al finalizar la captura de datos, el programa mostrará:
+
 La lista de estudiantes con sus calificaciones.
 El estudiante con la nota más alta.
 El estudiante con la nota más baja.
