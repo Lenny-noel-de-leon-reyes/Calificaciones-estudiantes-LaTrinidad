@@ -13,7 +13,9 @@ Allen Alberth Disla Irizarry (2026-1008)
 Adrian DAvid De La Rosa Alvarez (2026-1144)
 
 
+
 Instrucciones de uso del programa:
+
 1-Ejecute el programa desde su entorno de desarrollo (Visual Studio, Code::Blocks, Dev-C++, etc.).
 
 2-Ingrese la cantidad de estudiantes que desea registrar.
