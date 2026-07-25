@@ -5,8 +5,10 @@ Descripción del proyecto:
 Se desarrollará un programa en C++ que permita registrar los nombres y las calificaciones finales de un grupo de estudiantes utilizando arreglos unidimensionales paralelos. El sistema mostrará la lista completa de estudiantes, identificará la nota más alta y la más baja, calculará el promedio general del grupo y determinará cuántos estudiantes aprobaron y reprobaron. El objetivo es aplicar el uso de arreglos, ciclos, condicionales y funciones para procesar la información de manera eficiente.
 
 Integrantes:
-Lenny Noel De león Reyes (2026-0946),
-Allen Alberth Disla Irizarry (2026-1008),
+Lenny Noel De león Reyes (2026-0946)
+
+Allen Alberth Disla Irizarry (2026-1008)
+
 Adrian DAvid De La Rosa Alvarez (2026-1144)
 
 
@@ -29,6 +31,7 @@ El estudiante con la nota más baja.
 El promedio general del grupo.
 La cantidad de estudiantes aprobados y reprobados (tomando 70 como nota mínima para aprobar).
 Revise los resultados mostrados en pantalla y cierre el programa cuando haya terminado.
+
 
 Ejemplo 1:
 <img width="1346" height="753" alt="image" src="https://github.com/user-attachments/assets/c6bd4b07-c541-4e3c-86db-4d4b55076e19" />
