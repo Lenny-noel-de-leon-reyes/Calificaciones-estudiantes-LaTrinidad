@@ -1,1 +1,35 @@
 # Calificaciones-estudiantes-LaTrinidad
+
+Descripción del proyecto:
+
+Se desarrollará un programa en C++ que permita registrar los nombres y las calificaciones finales de un grupo de estudiantes utilizando arreglos unidimensionales paralelos. El sistema mostrará la lista completa de estudiantes, identificará la nota más alta y la más baja, calculará el promedio general del grupo y determinará cuántos estudiantes aprobaron y reprobaron. El objetivo es aplicar el uso de arreglos, ciclos, condicionales y funciones para procesar la información de manera eficiente.
+
+Integrantes:
+Lenny Noel De león Reyes (2026-0946)
+Allen Alberth Disla Irizarry (2026-1008)
+Adrian DAvid De La Rosa Alvarez (2026-1144)
+
+
+Instrucciones de uso del programa:
+Ejecute el programa desde su entorno de desarrollo (Visual Studio, Code::Blocks, Dev-C++, etc.).
+Ingrese la cantidad de estudiantes que desea registrar.
+Digite el nombre de cada estudiante cuando el programa lo solicite.
+Ingrese la calificación correspondiente a cada estudiante (debe estar entre 0 y 100).
+Repita el proceso hasta completar el registro de todos los estudiantes.
+Al finalizar la captura de datos, el programa mostrará:
+La lista de estudiantes con sus calificaciones.
+El estudiante con la nota más alta.
+El estudiante con la nota más baja.
+El promedio general del grupo.
+La cantidad de estudiantes aprobados y reprobados (tomando 70 como nota mínima para aprobar).
+Revise los resultados mostrados en pantalla y cierre el programa cuando haya terminado.
+
+Ejemplo 1:
+<img width="1343" height="759" alt="image" src="https://github.com/user-attachments/assets/391598f3-15c8-445a-b765-3cd867f8bfed" />
+Ejemplo 2:
+<img width="1343" height="769" alt="image" src="https://github.com/user-attachments/assets/5bac1a30-e2e7-43b8-bfc9-38daca04e8b8" />
+
+Explicación de arreglos utilizados:
+En el programa se utilizan dos arreglos unidimensionales paralelos: uno de tipo string llamado nombres[], que almacena los nombres de los estudiantes, y otro de tipo float llamado notas[], que almacena sus calificaciones.
+
+Ambos arreglos se relacionan mediante el mismo índice. Esto significa que el nombre almacenado en nombres[i] corresponde a la calificación almacenada en notas[i]. Por ejemplo, si nombres[2] contiene "María", entonces notas[2] almacena la nota de María. Esta relación permite acceder y procesar la información de cada estudiante de forma organizada y eficiente
