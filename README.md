@@ -25,9 +25,12 @@ La cantidad de estudiantes aprobados y reprobados (tomando 70 como nota mínima 
 Revise los resultados mostrados en pantalla y cierre el programa cuando haya terminado.
 
 Ejemplo 1:
-<img width="1343" height="759" alt="image" src="https://github.com/user-attachments/assets/391598f3-15c8-445a-b765-3cd867f8bfed" />
+<img width="1346" height="753" alt="image" src="https://github.com/user-attachments/assets/c6bd4b07-c541-4e3c-86db-4d4b55076e19" />
+
+
 Ejemplo 2:
-<img width="1343" height="769" alt="image" src="https://github.com/user-attachments/assets/5bac1a30-e2e7-43b8-bfc9-38daca04e8b8" />
+<img width="1345" height="766" alt="image" src="https://github.com/user-attachments/assets/2eae4f44-f299-472b-9ed8-f3d7bdf8e4a6" />
+
 
 Explicación de arreglos utilizados:
 En el programa se utilizan dos arreglos unidimensionales paralelos: uno de tipo string llamado nombres[], que almacena los nombres de los estudiantes, y otro de tipo float llamado notas[], que almacena sus calificaciones.
