@@ -5,6 +5,7 @@ Descripción del proyecto:
 Se desarrollará un programa en C++ que permita registrar los nombres y las calificaciones finales de un grupo de estudiantes utilizando arreglos unidimensionales paralelos. El sistema mostrará la lista completa de estudiantes, identificará la nota más alta y la más baja, calculará el promedio general del grupo y determinará cuántos estudiantes aprobaron y reprobaron. El objetivo es aplicar el uso de arreglos, ciclos, condicionales y funciones para procesar la información de manera eficiente.
 
 Integrantes:
+
 Lenny Noel De león Reyes (2026-0946)
 
 Allen Alberth Disla Irizarry (2026-1008)
